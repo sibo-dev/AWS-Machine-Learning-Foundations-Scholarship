@@ -10,7 +10,7 @@ Feeling stuck amidst the course? Feel free to refer this repository or reach out
 --- | ---| ---
 1 | Welcome to the AWS Machine Learning Foundations Course | &#9745;
 2 | Introduction to Machine Learning |  &#9745;
-3 | Machine Learning with AWS |  &#976;
+3 | Machine Learning with AWS |  &#9746;
 4 | Software Engineering Practices, part 1 |  &#9744;
 5 | Software Engineering Practices, part 2 |  &#9744;
 6 | Object-Oriented Programming |  &#9744;
